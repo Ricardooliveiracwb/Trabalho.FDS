@@ -1,0 +1,108 @@
+body{background-color: rgb(223, 235, 253);}
+
+h1{
+    color: rgb(35, 100, 156);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 700px;
+    margin: 0 auto;}
+    
+
+    .lista-centralizada {
+        text-align: center;}
+      
+      .lista-centralizada > ul {
+        display: inline-block;
+        text-align: left;
+        padding-left: 20px;
+        font-size: 17px;}
+      
+      .lista-centralizada ul ul {
+        display: block;
+        padding-left: 20px;
+        margin-top: 8px;}
+      
+      .lista-centralizada > ul > li {
+        margin-bottom: 0;}
+      
+      .lista-centralizada ul ul li:last-child {
+        margin-bottom: 15px;}
+      
+img{
+    width: 700px;
+    border-radius: 15px;
+    height: auto;
+    display: block;
+    margin: 0 auto;}
+
+    table {
+        width: 80%;
+        margin: 30px auto;          
+        border-collapse: collapse; 
+        font-family: Arial, sans-serif;
+        box-shadow: 0 0 8px rgba(0,0,0,0.1);}
+      
+      caption {
+        caption-side: top;
+        font-size: 1.4em;
+        font-weight: bold;
+        margin-bottom: 15px;}
+      
+      th, td {
+        border: 1px solid #ccc;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+
+        text-align: center;}
+      
+      th {
+        background-color: #f2f2f2;}
+      
+      .img-pais {
+        width: 450px;
+        height: auto;
+        border-radius: 8px;}
+
+        a {
+            color: #1a73e8;
+            text-decoration: none;}
+          
+          a:hover {
+            color: #d62828;
+            text-decoration: underline;}
+        
+        .link-centralizado {
+                text-align: center;
+                margin-top: 20px;
+                font-size: 18px;
+            margin-bottom: 50px;}
+            
+    .botao-js {
+        background-color: #007bff;
+        color: white;
+        padding: 10px 15px;
+        border: none; 
+        border-radius: 5px;
+        font-size: 16px;
+        display: block;
+        margin: 30px auto 0;}
+
+        #mensagem {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+            padding: 10px;
+            border-radius: 5px;}
+        
+               
+              
